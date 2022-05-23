@@ -2,5 +2,5 @@
 # tasks file for managerclonerepo
 
 - git: 
-    repo: https://github.com/M-Talha-Saeed/docker-project.git/tree/dev
+    repo: https://github.com/M-Talha-Saeed/docker-project.git
     dest: /home/talhas/docker-project
