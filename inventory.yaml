@@ -1,9 +1,9 @@
 managers:
   hosts:
-    manager-1:
+    manager:
 workers:
   hosts:
-    worker-1:
+    worker:
 
   vars:
     ansible_user: talhas
